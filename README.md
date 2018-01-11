@@ -1,1 +1,1 @@
-The Jupyter notebook classifies images of handwritten digits from the MNIST dataset. 
+The Jupyter notebook classifies images of handwritten digits from the MNIST dataset. It uses Google's Tensorflow library to implement a convolutional neural network for recognizing and classifying images.
